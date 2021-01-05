@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/19-user-directory/static/css/main.081c207c.chunk.css",
-    "main.js": "/19-user-directory/static/js/main.46f29103.chunk.js",
-    "main.js.map": "/19-user-directory/static/js/main.46f29103.chunk.js.map",
-    "runtime-main.js": "/19-user-directory/static/js/runtime-main.220b4e9f.js",
-    "runtime-main.js.map": "/19-user-directory/static/js/runtime-main.220b4e9f.js.map",
-    "static/css/2.01794eb1.chunk.css": "/19-user-directory/static/css/2.01794eb1.chunk.css",
-    "static/js/2.da7b9c4c.chunk.js": "/19-user-directory/static/js/2.da7b9c4c.chunk.js",
-    "static/js/2.da7b9c4c.chunk.js.map": "/19-user-directory/static/js/2.da7b9c4c.chunk.js.map",
-    "index.html": "/19-user-directory/index.html",
-    "static/css/2.01794eb1.chunk.css.map": "/19-user-directory/static/css/2.01794eb1.chunk.css.map",
-    "static/css/main.081c207c.chunk.css.map": "/19-user-directory/static/css/main.081c207c.chunk.css.map",
-    "static/js/2.da7b9c4c.chunk.js.LICENSE.txt": "/19-user-directory/static/js/2.da7b9c4c.chunk.js.LICENSE.txt"
+    "main.css": "/19-User-Directory/static/css/main.081c207c.chunk.css",
+    "main.js": "/19-User-Directory/static/js/main.46f29103.chunk.js",
+    "main.js.map": "/19-User-Directory/static/js/main.46f29103.chunk.js.map",
+    "runtime-main.js": "/19-User-Directory/static/js/runtime-main.5629ff4d.js",
+    "runtime-main.js.map": "/19-User-Directory/static/js/runtime-main.5629ff4d.js.map",
+    "static/css/2.01794eb1.chunk.css": "/19-User-Directory/static/css/2.01794eb1.chunk.css",
+    "static/js/2.da7b9c4c.chunk.js": "/19-User-Directory/static/js/2.da7b9c4c.chunk.js",
+    "static/js/2.da7b9c4c.chunk.js.map": "/19-User-Directory/static/js/2.da7b9c4c.chunk.js.map",
+    "index.html": "/19-User-Directory/index.html",
+    "static/css/2.01794eb1.chunk.css.map": "/19-User-Directory/static/css/2.01794eb1.chunk.css.map",
+    "static/css/main.081c207c.chunk.css.map": "/19-User-Directory/static/css/main.081c207c.chunk.css.map",
+    "static/js/2.da7b9c4c.chunk.js.LICENSE.txt": "/19-User-Directory/static/js/2.da7b9c4c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.220b4e9f.js",
+    "static/js/runtime-main.5629ff4d.js",
     "static/css/2.01794eb1.chunk.css",
     "static/js/2.da7b9c4c.chunk.js",
     "static/css/main.081c207c.chunk.css",
